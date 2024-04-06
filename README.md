@@ -1,5 +1,8 @@
 ## Bem-vindo(a) ao perfil do William Santos Dantas 😁
+Sou um cara formado em Ciência da Computação, e minha paixão por jogos é algo que me acompanha desde sempre. Já passei um tempo trabalhando com desenvolvimento de jogos em Unity 2D, o que foi incrível para aprender sobre o processo de criação, desde a concepção da ideia até a implementação final.
 
+Atualmente, estou focado em expandir meus horizontes, mergulhando no desenvolvimento web e explorando as possibilidades da Unreal Engine para criar jogos ainda mais envolventes. Estou sempre em busca de novas oportunidades para aplicar minhas habilidades e contribuir para projetos criativos que tragam diversão e emoção para os jogadores.
+<br>
  <div>
    <a href="https://github.com/William-Dantas-Dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=William-Dantas-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
